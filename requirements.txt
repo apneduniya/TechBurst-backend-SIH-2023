@@ -1,0 +1,15 @@
+bson==0.5.10
+fastapi>=0.63.0
+starlette
+pydantic>=1.2.0,<2.0.0
+PyJWT==2.7.0
+pymongo==4.4.0
+python-jose==3.3.0
+python-jwt==4.0.0
+python-multipart==0.0.6
+requests==2.29.0
+uvicorn==0.22.0
+pydantic[email]==2.1.1
+passlib==1.7.4
+bcrypt==3.2.0
+stripe
